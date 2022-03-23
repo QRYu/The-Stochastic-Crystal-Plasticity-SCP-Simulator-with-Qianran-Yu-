@@ -19,4 +19,11 @@ The traditional crystal plasticity theory assumes that slip systems are independ
 
 ****How to use****
 
+Before use:
+
+Please install gcc/g++ for the newest version (c++11 or newer).
+Please either unzip eigen3 library and put it into src directory, or install eigen3 in local computer.
+
+Open terminal and type "make" under "src" directory, then and executable file named "cpexe" will be generated. Run the simulations using command "./cpexe".
+
 
