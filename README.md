@@ -31,5 +31,5 @@ Open terminal and type "make" under "src" directory, then and executable file na
 - constant.h
 - main.h
 - makefile
-- scp.cpp/scp.h:
+- scp.cpp/scp.h: store functions that do stochastic crystal plasticity procedures.
 - slipSystem.cpp/slipSystem.h
