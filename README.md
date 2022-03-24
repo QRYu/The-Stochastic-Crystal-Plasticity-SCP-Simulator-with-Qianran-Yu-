@@ -26,4 +26,10 @@ Please either unzip eigen3 library and put it into src directory, or install eig
 
 Open terminal and type "make" under "src" directory, then and executable file named "cpexe" will be generated. Run the simulations using command "./cpexe".
 
+****Program Structure****
 
+- constant.h
+- main.h
+- makefile
+- scp.cpp/scp.h:
+- slipSystem.cpp/slipSystem.h
